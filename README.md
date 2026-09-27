@@ -1,3 +1,6 @@
+2. Refazer os exercícios do 27 ao 29 com procedimentos em Python COM PASSAGEM DE
+PARÂMETROS (Com variáveis locais). Os exercícios devem ser organizados com chamada
+
 3. Fazer os exercícios abaixo com funções, COM PASSAGEM DE PARÂMETROS:
 
   a. Fazer um algoritmo que tenha uma função que receba um valor inteiro como
